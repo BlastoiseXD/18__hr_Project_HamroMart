@@ -1,0 +1,13 @@
+Bill_2024-02-20_13-29-19
+
+Name: Lal Qilla Basmati Rice
+Quantity: 1
+Price: 1600
+Total: 1600
+
+Name: RS Aquarium Heater
+Quantity: 1
+Price: 500
+Total: 500
+
+Grand Total: 2100

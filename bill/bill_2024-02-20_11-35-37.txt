@@ -1,0 +1,13 @@
+Bill_2024-02-20_11-35-37
+
+Name: Lal Qilla Basmati Rice
+Quantity: 1
+Price: 1600
+Total: 1600
+
+Name: Wai-Wai Noodles
+Quantity: 1
+Price: 25
+Total: 25
+
+Grand Total: 1625

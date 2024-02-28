@@ -1,0 +1,13 @@
+Bill
+
+Name: Nutrela Soybean
+Quantity: 1
+Price: 650
+Total: 650
+
+Name: Baltra Stand Fan
+Quantity: 1
+Price: 1800
+Total: 1800
+
+Grand Total: 2450

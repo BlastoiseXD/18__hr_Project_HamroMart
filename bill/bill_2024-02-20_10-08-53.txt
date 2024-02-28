@@ -1,0 +1,63 @@
+Bill
+
+Name: Britiania Good Day
+Quantity: 1
+Price: 40
+Total: 40
+
+Name: Nutrela Soybean
+Quantity: 1
+Price: 650
+Total: 650
+
+Name: Baltra Table Fan
+Quantity: 1
+Price: 2600
+Total: 2600
+
+Name: Apache RTR 200
+Quantity: 1
+Price: 400000
+Total: 400000
+
+Name: Samsung S23 Ultra
+Quantity: 1
+Price: 179500
+Total: 179500
+
+Name: Baltra Stand Fan
+Quantity: 1
+Price: 1800
+Total: 1800
+
+Name: Britiania Good Day
+Quantity: 1
+Price: 40
+Total: 40
+
+Name: Nutrela Soybean
+Quantity: 1
+Price: 650
+Total: 650
+
+Name: Baltra Table Fan
+Quantity: 1
+Price: 2600
+Total: 2600
+
+Name: Apache RTR 200
+Quantity: 1
+Price: 400000
+Total: 400000
+
+Name: Samsung S23 Ultra
+Quantity: 1
+Price: 179500
+Total: 179500
+
+Name: Baltra Stand Fan
+Quantity: 1
+Price: 1800
+Total: 1800
+
+Grand Total: 1169180

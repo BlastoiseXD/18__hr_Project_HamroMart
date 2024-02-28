@@ -1,0 +1,23 @@
+Bill_2024-02-20_16-48-48
+
+Name: Lal Qilla Basmati Rice
+Quantity: 1
+Price: 1600
+Total: 1600
+
+Name: Hills Premium Dry Cat Food
+Quantity: 1
+Price: 2500
+Total: 2500
+
+Name: Purina Friskies Dry Cat Food
+Quantity: 1
+Price: 850
+Total: 850
+
+Name: RS Aquarium Heater
+Quantity: 1
+Price: 500
+Total: 500
+
+Grand Total: 5450

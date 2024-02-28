@@ -1,0 +1,8 @@
+Bill_2024-02-20_13-30-49
+
+Name: Britiania Good Day
+Quantity: 1
+Price: 40
+Total: 40
+
+Grand Total: 40

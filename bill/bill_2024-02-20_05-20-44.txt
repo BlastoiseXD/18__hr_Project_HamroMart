@@ -1,0 +1,13 @@
+Bill
+
+Name: SOBO Aquarium Filter
+Quantity: 1
+Price: 760
+Total: 760
+
+Name: Apache RTR 200
+Quantity: 1
+Price: 400000
+Total: 400000
+
+Grand Total: 400760

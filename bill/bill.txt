@@ -1,0 +1,23 @@
+Bill
+
+Name: Lal Qilla Basmati Rice
+Quantity: 1
+Price: 1600
+Total: 1600
+
+Name: Lal Qilla Basmati Rice
+Quantity: 1
+Price: 1600
+Total: 1600
+
+Name: Lal Qilla Basmati Rice
+Quantity: 4
+Price: 1600
+Total: 6400
+
+Name: Lal Qilla Basmati Rice
+Quantity: 4
+Price: 1600
+Total: 6400
+
+Grand Total: 16000

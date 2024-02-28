@@ -1,0 +1,41 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>add-products</title>
+    <link rel="stylesheet" href="./css/login.css">
+</head>
+<body>
+       <div class="product-container">
+              <h2 align="center" style="color:purple">Add Product</h2>
+              <form action="" method="post" enctype="multipart/form-data">
+                <div class="form">
+                    <span><img src="./assets/icons/name.png" alt=""></span> <input type="text" name="name"
+                        placeholder="Enter product name" class="box" required>
+                </div>
+                <div class="form">
+                    <span><img src="./assets/icons/get-money.png" alt=""></span> <input type="number" name="number"
+                        placeholder="Enter product price" class="box" required min="1">
+                </div>
+                <div class="form">
+                    <span><img src="./assets/icons/image-files.png" alt=""></span> <input type="file" name="file" accept="image/jpeg, image/png, image/jpg"
+                     class="box" required>
+                </div>
+            
+              <div class="form">
+                 <input type="submit" name="add_product" value="add now" class="box btn" >
+            </div>
+              
+
+              </form>
+
+       </div>
+</body>
+</html>
